@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.2.7",
+    "imageapi.js": "^1.4.0",
+    "mongoose": "^5.11.15",
+    "ms": "^2.1.2",
+    "salvage.db": "^1.2.4"
+  }
+}
